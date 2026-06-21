@@ -1,4 +1,4 @@
-# First PR Practice
+# PR Practice
 
 This is a small repo for practicing the GitHub pull request workflow.
 
